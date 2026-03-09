@@ -1,0 +1,1 @@
+// console.log("hello world");  comments in js
