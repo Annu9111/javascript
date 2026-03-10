@@ -27,3 +27,13 @@ else if(aa>60){
 else{
     console.log("middle");
 }
+
+//ternery operators
+bb=18;
+let result=bb>18?"adult":"child";
+console.log(result);
+
+alert("hello");
+
+let dd=prompt("hello");
+console.log(dd);
