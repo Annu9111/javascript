@@ -37,3 +37,12 @@ for(let i=0;i<100;i++){
         console.log(i);
     }
 }
+
+
+//strings
+let string="annu";
+console.log(string.length);
+console.log(string[0]);
+let specialstr=`this is a template literal ${1+2+3}`;
+console.log(specialstr);
+console.log("annu \n soni")
