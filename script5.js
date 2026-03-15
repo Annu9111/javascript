@@ -19,3 +19,14 @@ for(let i=0;i<marks.length;i++){
 }
 let avg=sum/marks.length;
 console.log(avg);
+
+let veggies=["potato","mushroom","tomato","pumkin","onion"];
+let num=[12,34,56,78,90];
+veggies.push("lady finger");
+console.log(veggies);
+veggies.pop();
+console.log(veggies);
+console.log(veggies.toString());
+console.log(num.toString());
+veggies.unshift("carrot");
+console.log(veggies);
