@@ -27,3 +27,12 @@ let fun=(a)=>{
     console.log(count);
 }
 fun("annu")
+
+let arr=[1,23,4,5,6,7]
+arr.forEach(function fun(val,index){
+    console.log(val,index);
+})
+
+arr.forEach((val)=>{
+    console.log(val**2);
+})
