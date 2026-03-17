@@ -1,8 +1,8 @@
-h1{
-    color: rgb(158, 93, 9);
-    background-color: cadetblue;
-    display: inline;
-}
-body{
-    background-color: palevioletred;
+.myclass{
+    height: 100px;
+    width:100px;
+    border: 2px solid black;
+    margin:5px;
+    text-align: center;
+    background-color: chocolate;
 }
